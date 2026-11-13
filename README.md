@@ -8,7 +8,7 @@ keeping vendor spend under control, and making sure nothing fails quietly.
 
 Off the clock I apply the same discipline to hardware and software.
 
-### Featured project
+### Featured projects
 
 **[Harvest of Shadows](https://github.com/joe-pero/harvest-of-shadows)**: a 14-controller,
 AI-assisted haunted yard I designed, built and ran end to end.
@@ -17,10 +17,17 @@ AI-assisted haunted yard I designed, built and ran end to end.
 - AI used for one narrow job, behind a content screen and a hard spending cap ($1.72 for the season)
 - 183 visits in 2026, 0 missed cues on the final night, no visitor photos ever stored
 
+**[projection-fit](https://github.com/joe-pero/projection-fit)**: fit projected video onto a
+real door, window or wall from one phone photo.
+
+- Marker card + one photo → exact corners, true shape, video cropped never stretched
+- A person approves the fit before anything renders
+- Tested against synthetic scenes with known answers: corners within 1.5 pixels
+
 ### What I work with
 
 `Fraud strategy & rules` · `Investigations & case management` · `Chargebacks & disputes` ·
-`Python` · `ESP32 / C++` · `MQTT` · `Home Assistant` · `Computer vision (Frigate)` · `OpenAI API`
+`Python` · `ESP32 / C++` · `MQTT` · `Home Assistant` · `Computer vision (Frigate, OpenCV)` · `OpenAI API`
 
 ### Connect
 
