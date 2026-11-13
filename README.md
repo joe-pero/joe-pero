@@ -25,6 +25,13 @@ real door, window or wall from one phone photo.
 - A person approves the fit before anything renders
 - Tested against synthetic scenes with known answers: corners within 1.5 pixels
 
+**[show-power](https://github.com/joe-pero/show-power)**: safe, checked, weather-aware power for
+outdoor displays in Home Assistant.
+
+- One button: every switch verified on, re-sent, and named if it fails
+- Projectors cool down before power is cut; sound off at bedtime; automatic rain skip from the forecast
+- Rules learned from a real season, turned into a config any haunt or holiday display can use
+
 ### What I work with
 
 `Fraud strategy & rules` · `Investigations & case management` · `Chargebacks & disputes` ·
