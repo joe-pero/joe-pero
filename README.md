@@ -14,8 +14,9 @@ Off the clock I apply the same discipline to hardware and software.
 AI-assisted haunted yard I designed, built and ran end to end.
 
 - Camera detection → rules engine → ESP-NOW radio mesh → 14 props acting on one cue
-- AI used for one narrow job, behind a content screen and a hard spending cap ($1.72 for the season)
-- 183 visits in 2026, 0 missed cues on the final night, no visitor photos ever stored
+- **11,242** people detected (median **81.5%** confidence in show hours), **3,372** zone entries, **11,281** logged events
+- **183** visits, **135** main shows, **82** encores, **531** radio cues, **0** missed on the final night
+- AI for one narrow job: **53** live calls, **$1.72** for the season, hard **$18** cap, no visitor photos ever stored
 
 **[projection-fit](https://github.com/joe-pero/projection-fit)**: fit projected video onto a
 real door, window or wall from one phone photo.
